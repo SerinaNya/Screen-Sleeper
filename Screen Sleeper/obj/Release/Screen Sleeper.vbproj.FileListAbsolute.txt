@@ -1,0 +1,12 @@
+E:\版本控制\Screen Sleeper\Screen Sleeper\bin\Release\Screen Sleeper.exe
+E:\版本控制\Screen Sleeper\Screen Sleeper\bin\Release\Screen Sleeper.pdb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\MainWindow.baml
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Application.baml
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\MainWindow.g.vb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Application.g.vb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen Sleeper_MarkupCompile.cache
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen Sleeper.g.resources
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen_Sleeper.Resources.resources
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen Sleeper.vbproj.GenerateResource.Cache
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen Sleeper.exe
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Release\Screen Sleeper.pdb

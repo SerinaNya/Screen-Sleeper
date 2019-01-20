@@ -1,0 +1,25 @@
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Application.g.vb
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper_MarkupCompile.cache
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\bin\Debug\Screen Sleeper.exe
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\bin\Debug\Screen Sleeper.pdb
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\bin\Debug\Screen Sleeper.xml
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\MainWindow.baml
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\MainWindow.g.vb
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper.g.resources
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen_Sleeper.Resources.resources
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper.vbproj.GenerateResource.Cache
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper.exe
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper.xml
+C:\Users\nan\AppData\Local\Temporary Projects\Screen Sleeper\obj\Debug\Screen Sleeper.pdb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen Sleeper.exe
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen Sleeper.pdb
+E:\版本控制\Screen Sleeper\Screen Sleeper\bin\Debug\Screen Sleeper.exe
+E:\版本控制\Screen Sleeper\Screen Sleeper\bin\Debug\Screen Sleeper.pdb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\MainWindow.baml
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\MainWindow.g.vb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Application.g.vb
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen Sleeper_MarkupCompile.cache
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen Sleeper.g.resources
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen_Sleeper.Resources.resources
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Screen Sleeper.vbproj.GenerateResource.Cache
+E:\版本控制\Screen Sleeper\Screen Sleeper\obj\Debug\Application.baml
